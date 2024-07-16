@@ -13,7 +13,7 @@ def extract_zip(url, domain, desired_address, destination):
             DESCRIPTION URL address of webpage containing desired zip files
         domain
             TYPE String
-            DESCRIPTION Domain name and extension of site
+            DESCRIPTION Domain name and extension of url
         desired_address
             TYPE String
             DESCRIPTION Directory address containing desired zip files
